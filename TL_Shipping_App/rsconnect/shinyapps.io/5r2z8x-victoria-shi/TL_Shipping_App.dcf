@@ -1,0 +1,14 @@
+name: TL_Shipping_App
+title: TL_Shipping_App
+username:
+account: 5r2z8x-victoria-shi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8411941
+bundleId: 6887873
+url: https://5r2z8x-victoria-shi.shinyapps.io/TL_Shipping_App/
+when: 1677361289.2696
+lastSyncTime: 1677361289.2696
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .idea/Final.iml|.idea/inspectionProfiles/Project_Default.xml|.idea/modules.xml|.idea/workspace.xml
